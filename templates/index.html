@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>AI Language Translator</title>
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🌐 AI Language Translator</h1>
+
+<button class="dark-btn" onclick="toggleMode()">🌙 Dark Mode</button>
+
+<textarea id="text" placeholder="Type or speak text..."></textarea>
+
+<p id="count">0 characters</p>
+
+<select id="language">
+
+<option value="te">Telugu</option>
+<option value="hi">Hindi</option>
+<option value="fr">French</option>
+<option value="es">Spanish</option>
+<option value="de">German</option>
+<option value="en">English</option>
+
+</select>
+
+<div class="buttons">
+
+<button onclick="translateText()">Translate</button>
+
+<button onclick="startVoice()">🎤 Speak</button>
+
+<button onclick="copyText()">Copy</button>
+
+</div>
+
+<div class="result-box">
+
+<h3>Translated Text</h3>
+
+<p id="result"></p>
+
+</div>
+
+<div class="history-box">
+
+<h3>Translation History</h3>
+
+<ul id="history"></ul>
+
+<button onclick="clearHistory()">Clear History</button>
+
+</div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+
+</html>
