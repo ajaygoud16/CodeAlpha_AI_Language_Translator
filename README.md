@@ -1,59 +1,26 @@
- 🌐 AI Language Translator
+🌐 AI Language Translator
 
-This project is an **AI-based Language Translation Web Application** developed using **Python Flask**.
-It allows users to translate text from one language to another instantly.
+This project is an AI-based language translation web application built using Python Flask.
 
  🚀 Features
 
 * Translate text into multiple languages
 * Automatic language detection
-* Simple and user-friendly interface
-* Translation history support
+* Simple UI
 
-🛠️ Technologies Used
+ ▶️ Run the Project
 
-* Python
-* Flask
-* HTML
-* CSS
-* JavaScript
-* deep-translator library
+1. Clone the repository
+   git clone https://github.com/ajaygoud16/CodeAlpha_AI_Language_Translator.git
 
-📂 Project Structure
+2. Install dependencies
+   pip install -r requirements.txt
 
-CodeAlpha_AI_Language_Translator
-│
-├── app.py
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   ├── style.css
-│   └── script.js
-└── README.md
- ▶️ How to Run the Project
+3. Run the application
+   python app.py
 
-1. Install Python packages
-
-
-pip install -r requirements.txt
-
-
-2. Run the Flask application
-
-
-python app.py
-
-
-3. Open browser and go to
-
-
-http://127.0.0.1:5000
-
-
- 📌 Internship Task
-
-This project was developed as part of the **CodeAlpha AI Internship Program**.
+4. Open in browser
+   http://127.0.0.1:5000
 
  👨‍💻 Author
 
