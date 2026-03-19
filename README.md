@@ -1,5 +1,5 @@
-### 📝 Input Text
-![Input](images/trans0.png)
-![Input](images/trans1.png)
-### 📄 Generated Summary
-![Summary](images/trans2.png)
+## 📸 Screenshots
+
+![Output 1](images/trans0.png)
+![Output 2](images/trans1.png)
+![Output 3](images/trans2.png)
