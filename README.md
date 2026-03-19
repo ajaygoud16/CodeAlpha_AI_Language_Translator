@@ -60,13 +60,7 @@ python app.py
  5️⃣ Open in Browser
 
  http://127.0.0.1:5000
- 📸 Screenshots
-
-![Output 1](images/trans0.png)
-![Output 2](images/trans1.png)
-![Output 3](images/trans2.png)
-
-
+ 
 📸 Project Demo
 
 You can run the application locally using the above steps to see the translation functionality.
