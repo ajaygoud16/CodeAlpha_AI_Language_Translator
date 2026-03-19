@@ -21,5 +21,10 @@ An AI-powered web application that translates text between multiple languages in
 pip install -r requirements.txt  
 python app.py  
 
+## 🌐 Live Demo
+
+Project can be run locally using:
+http://127.0.0.1:5000
+
 ## 👨‍💻 Author
 Ajay Goud
